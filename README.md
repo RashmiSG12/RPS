@@ -12,7 +12,6 @@ A simple and fun Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 🎰 Randomized computer choices
 
 🧮 Score tracking 
-----
 
 ## 🛠️ Technologies Used
 ---
@@ -22,7 +21,6 @@ A simple and fun Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 
 3. ⚙️ JavaScript (Vanilla)
 
----
 
 ## 🚀 How to Run
 ---
@@ -33,15 +31,16 @@ git clone https://github.com/YourUsername/YourRepoName.git
 cd YourRepoName
 
 3.Open index.html in your browser.
----
+
 
 ## 📸 Screenshot
 ---
 
 ![Game Screenshot](Screenshot%20.png)
----
+
 
 ## 📁 File Structure
+---
 RockPaperScissors/
 ├── index.html
 ├── style.css
